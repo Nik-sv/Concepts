@@ -18,6 +18,8 @@ public class Binary_Search {
                 end = mid - 1;
             }
         }
+        
+
 
         return -1;
     }
